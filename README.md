@@ -9,6 +9,6 @@ Este é um sistema desenvolvido em Java para controle de uma Transpostadora, pro
 * Visualizar o histórico do Frete
 
 ## Tecnologias Utilizadas
-Java
-PostgreSQL
-SpringBoot
+* Java
+* PostgreSQL
+* SpringBoot
